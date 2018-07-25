@@ -1,5 +1,8 @@
 # Changelog
 
+# 8.0.0
+* Reorganize project structure
+
 # 7.0.0
 * Initial support for WPA-EAP networks. 
 * Increase NervesHub reconnect timer to not waste CPU time.
