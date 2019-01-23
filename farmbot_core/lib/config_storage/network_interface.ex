@@ -39,7 +39,7 @@ defmodule Farmbot.Config.NetworkInterface do
       :psk, 
       :security,
       :identity,
-      :password
+      :password,
       :ipv4_method, 
       :ipv4_address, 
       :ipv4_gateway, 
